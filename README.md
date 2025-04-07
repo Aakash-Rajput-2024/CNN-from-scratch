@@ -64,7 +64,7 @@ This project is ideal for:
 
 ---
 
-## TODO (Optional Improvements)
+## TODO 
 
 - Better learning rate scheduler
 - Use momentum or Adam optimizers
